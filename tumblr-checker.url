@@ -1,0 +1,1 @@
+javascript:el=document.createElement('script');el.src='https://code.jquery.com/jquery-latest.min.js';document.body.appendChild(el);jQuery(".binary-switch input").attr("checked", false);
